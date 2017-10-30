@@ -1,1 +1,1 @@
-# Static-Stack
+This program I created an array of student records which also contained an average of test scores using pointers that pointed to an average of test scores for each student.  I then pushed all these student records onto a static stack and displayed the output.
